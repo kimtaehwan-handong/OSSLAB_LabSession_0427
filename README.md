@@ -6,6 +6,8 @@ The owner name:
 # Write requestor name, student number, ID
 The requestor name:
 @SeongHyeon-handong
->student number: 21800284
->ID: shpark
+>student number: 21800284 /
+>ID: shpark /
+>university: Handong university
+
 
